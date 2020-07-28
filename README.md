@@ -1,10 +1,10 @@
 # Azure Migrate Runbook
 
-Sample migration runbook to help organizations migrate with Lift&Shift approach from on-prem to Azure using Azure migrate tool: https://docs.microsoft.com/en-us/azure/migrate/.
+Sample migration runbook to help organizations migrate with Lift&Shift approach from on-prem to Azure using Azure migrate tool: https://docs.microsoft.com/en-us/azure/migrate/ and Cloud Adoption Framework guidelines: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/.
 
 ## Overview
 
-This [sample runbook](MigrationRunbook.xlsx) will give you guidance on steps to consider when performing migration from on-prem (or any other cloud) to Azure. 
+This [sample runbook](MigrationRunbook.md) will give you guidance on steps to consider when performing migration from on-prem (or any other cloud) to Azure. 
 
 This runbook sample is intended to be customized per organizations own environment and 
 
